@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.skyline.netty-demo</groupId>
+    <groupId>com.skyline.demo</groupId>
     <artifactId>netty-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>netty-demo</name>
